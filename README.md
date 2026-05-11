@@ -4,18 +4,18 @@ A fully responsive music streaming interface built with **JavaScript, HTML5, and
 
 ## 🚀 Live Demo
 
-    **https://spotifyclone-swart-beta.vercel.app/**
+    https://spotifyclone-swart-beta.vercel.app/
 
 ---
 
 ## 📸 Preview
 
-                                                | Desktop Version |
+                                             | Desktop Version |
 
 <img width="1919" height="971" alt="Screenshot 2026-05-09 211013" src="https://github.com/user-attachments/assets/c5c6230e-4d94-4226-b3d8-c8d6c5252ff7" />
 
 
-                                                | Mobile Version |
+                                             | Mobile Version |
 
 <img width="285" height="500" alt="Screenshot 2026-05-09 165010" src="https://github.com/user-attachments/assets/912a47ae-138d-4e92-a108-21fb6878c302" />
 
