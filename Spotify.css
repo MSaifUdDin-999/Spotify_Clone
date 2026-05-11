@@ -432,7 +432,7 @@ img {
 /* Laptop and Desktop styles */
 @media (min-width: 901px) {
     .songButtons {
-        padding-left: 180px; /* Only applied when screen is wider than 900px */
+        padding-left: 150px; /* Only applied when screen is wider than 900px */
     }
 }
 
