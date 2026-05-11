@@ -420,15 +420,20 @@ img {
     transition: left 0.5s;
 }
 
+/* Base styles for mobile (Mobile First approach) */
 .songButtons {
     display: flex;
     justify-content: center;
     align-items: center;
-    gap: 17PX;
+    gap: 17px;
     margin-bottom: 14px;
-    padding-left: 100px; /* Only for laptops screens */
-    /* Remove if using mobile screen */
-    
+
+}
+/* Laptop and Desktop styles */
+@media (min-width: 901px) {
+    .songButtons {
+        padding-left: 180px; /* Only applied when screen is wider than 900px */
+    }
 }
 
 .songButtons>img {
