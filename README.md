@@ -2,6 +2,12 @@
 
 A fully responsive music streaming interface built with **JavaScript, HTML5, and CSS3**. This project replicates the Spotify web experience, featuring dynamic playlist rendering and a custom-built audio player.
 
+## 🚀 Live Demo
+
+**https://spotifyclone-swart-beta.vercel.app/**
+
+---
+
 ## 📸 Preview
 
                                                 | Desktop Version |
