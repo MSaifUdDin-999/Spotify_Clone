@@ -4,7 +4,7 @@ A fully responsive music streaming interface built with **JavaScript, HTML5, and
 
 ## 🚀 Live Demo
 
-**🚀: https://spotify-clone404.vercel.app/**
+**🔴 https://spotify-clone404.vercel.app/**
 
 ---
 
