@@ -4,7 +4,7 @@ A fully responsive music streaming interface built with **JavaScript, HTML5, and
 
 ## 🚀 Live Demo
 
-    https://spotifyclone-swart-beta.vercel.app/
+**🚀: https://spotify-clone404.vercel.app/**
 
 ---
 
@@ -47,3 +47,13 @@ A fully responsive music streaming interface built with **JavaScript, HTML5, and
 3. Open `index.html` via a local server (like Live Server in VS Code) to allow `fetch` requests to work properly.
 
 ---
+
+## 🤝 Contact
+
+Linkedin : **https://www.linkedin.com/in/muhammad-saif-ud-din-0b604840b/**
+
+GitHub : **https://github.com/MSaifUdDin-999**
+
+Email : **mrsaif1166@gmail.com**
+
+*Developed with ❤️ by M SAIF UD DIN*
