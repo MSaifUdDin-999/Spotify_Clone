@@ -38,7 +38,7 @@ A fully responsive music streaming interface built with **JavaScript, HTML5, and
 
 * `/Songs`: Contains album folders, audio files, and `info.json` for metadata.
 * `Spotify.js`: Core logic for music playback and UI interactions.
-* `Spotify.css` & `Utility.css`: Styling and reusable layout classes.
+* `Spotify.css` & `Utility.css`: Styling and reusable layout classes. 
 
 ## 🔧 How to Run
 
